@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/jonathanye29/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jonathanye29/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/jonathanye29/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jonathanye29/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 **jonathanye29/jonathanye29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 `
-[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanye29&show_icons=true&count_private=true&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanye29&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
