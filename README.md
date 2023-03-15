@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanye29&show_icons=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanye29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathanye29&theme=prussian)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanye29&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jonathanye29/jonathanye29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
